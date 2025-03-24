@@ -1,0 +1,4 @@
+V1 Ankara 5.0
+V2 Istanbul 6.5
+V3 Istanbul 3.0
+V4 Izmir 4.2
